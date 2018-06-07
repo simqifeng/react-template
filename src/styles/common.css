@@ -1,0 +1,16 @@
+body, ol, ul, li, dl, dd, dt, h1, h2, h3, h4, h5, h6, p, div, input, textarea, button, label {
+  padding:0;
+  margin:0;
+}
+body {
+  font-size:0.16rem;
+}
+ol, ul, li {
+  list-style: none;
+}
+i, em {
+  font-style: normal;
+}
+button, input, textarea {
+  outline: none;
+}
